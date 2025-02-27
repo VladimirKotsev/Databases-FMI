@@ -12,7 +12,7 @@ This repository contains SQL queries from the **Databases** course at the **Facu
 - Basic knowledge of SQL syntax
 - A running SQL database instance
 
-## Author of tasks
+## Author
 Faculty of Mathematics and Informatics, Sofia University
 
 ---
